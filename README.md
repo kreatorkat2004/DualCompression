@@ -1,1 +1,1 @@
-# DualCompression
+# AgenticAIPromptCompression

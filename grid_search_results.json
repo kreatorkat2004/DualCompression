@@ -1,0 +1,506 @@
+[
+  {
+    "accuracy": 0.3333333333333333,
+    "runtime": 7.939338684082031e-05,
+    "config": {
+      "model": "llama-3.1-8b",
+      "pattern": "zero_shot",
+      "n_shots": 0,
+      "quantization": null,
+      "sparsity": 0.0,
+      "compression": 1.0
+    }
+  },
+  {
+    "accuracy": 0.0,
+    "runtime": 0.0003012816111246745,
+    "config": {
+      "model": "llama-3.1-8b",
+      "pattern": "cot",
+      "n_shots": 0,
+      "quantization": null,
+      "sparsity": 0.0,
+      "compression": 1.0
+    }
+  },
+  {
+    "accuracy": 0.3333333333333333,
+    "runtime": 3.337860107421875e-06,
+    "config": {
+      "model": "llama-3.1-8b",
+      "pattern": "cot",
+      "n_shots": 3,
+      "quantization": null,
+      "sparsity": 0.0,
+      "compression": 1.0
+    }
+  },
+  {
+    "accuracy": 0.3333333333333333,
+    "runtime": 3.973642985026042e-07,
+    "config": {
+      "model": "llama-3.1-8b",
+      "pattern": "cot",
+      "n_shots": 5,
+      "quantization": null,
+      "sparsity": 0.0,
+      "compression": 1.0
+    }
+  },
+  {
+    "accuracy": 0.3333333333333333,
+    "runtime": 3.178914388020833e-07,
+    "config": {
+      "model": "llama-3.1-8b",
+      "pattern": "react",
+      "n_shots": 0,
+      "quantization": null,
+      "sparsity": 0.0,
+      "compression": 1.0
+    }
+  },
+  {
+    "accuracy": 0.3333333333333333,
+    "runtime": 2.6226043701171875e-06,
+    "config": {
+      "model": "llama-3.1-8b",
+      "pattern": "react",
+      "n_shots": 3,
+      "quantization": null,
+      "sparsity": 0.0,
+      "compression": 1.0
+    }
+  },
+  {
+    "accuracy": 0.0,
+    "runtime": 4.3710072835286456e-06,
+    "config": {
+      "model": "llama-3.1-8b",
+      "pattern": "react",
+      "n_shots": 5,
+      "quantization": null,
+      "sparsity": 0.0,
+      "compression": 1.0
+    }
+  },
+  {
+    "accuracy": 0.0,
+    "runtime": 1.986821492513021e-06,
+    "config": {
+      "model": "granite-3.1-8b",
+      "pattern": "zero_shot",
+      "n_shots": 0,
+      "quantization": null,
+      "sparsity": 0.0,
+      "compression": 1.0
+    }
+  },
+  {
+    "accuracy": 0.3333333333333333,
+    "runtime": 7.152557373046875e-07,
+    "config": {
+      "model": "granite-3.1-8b",
+      "pattern": "cot",
+      "n_shots": 0,
+      "quantization": null,
+      "sparsity": 0.0,
+      "compression": 1.0
+    }
+  },
+  {
+    "accuracy": 0.0,
+    "runtime": 4.291534423828125e-06,
+    "config": {
+      "model": "granite-3.1-8b",
+      "pattern": "cot",
+      "n_shots": 3,
+      "quantization": null,
+      "sparsity": 0.0,
+      "compression": 1.0
+    }
+  },
+  {
+    "accuracy": 0.3333333333333333,
+    "runtime": 6.357828776041666e-07,
+    "config": {
+      "model": "granite-3.1-8b",
+      "pattern": "cot",
+      "n_shots": 5,
+      "quantization": null,
+      "sparsity": 0.0,
+      "compression": 1.0
+    }
+  },
+  {
+    "accuracy": 0.3333333333333333,
+    "runtime": 3.178914388020833e-07,
+    "config": {
+      "model": "granite-3.1-8b",
+      "pattern": "react",
+      "n_shots": 0,
+      "quantization": null,
+      "sparsity": 0.0,
+      "compression": 1.0
+    }
+  },
+  {
+    "accuracy": 0.3333333333333333,
+    "runtime": 9.5367431640625e-07,
+    "config": {
+      "model": "granite-3.1-8b",
+      "pattern": "react",
+      "n_shots": 3,
+      "quantization": null,
+      "sparsity": 0.0,
+      "compression": 1.0
+    }
+  },
+  {
+    "accuracy": 0.3333333333333333,
+    "runtime": 2.384185791015625e-06,
+    "config": {
+      "model": "granite-3.1-8b",
+      "pattern": "react",
+      "n_shots": 5,
+      "quantization": null,
+      "sparsity": 0.0,
+      "compression": 1.0
+    }
+  },
+  {
+    "accuracy": 0.3333333333333333,
+    "runtime": 5.6425730387369794e-06,
+    "config": {
+      "model": "llama-3.1-70b",
+      "pattern": "zero_shot",
+      "n_shots": 0,
+      "quantization": null,
+      "sparsity": 0.0,
+      "compression": 1.0
+    }
+  },
+  {
+    "accuracy": 0.3333333333333333,
+    "runtime": 3.735224405924479e-06,
+    "config": {
+      "model": "llama-3.1-70b",
+      "pattern": "cot",
+      "n_shots": 0,
+      "quantization": null,
+      "sparsity": 0.0,
+      "compression": 1.0
+    }
+  },
+  {
+    "accuracy": 0.3333333333333333,
+    "runtime": 2.940495808919271e-06,
+    "config": {
+      "model": "llama-3.1-70b",
+      "pattern": "cot",
+      "n_shots": 3,
+      "quantization": null,
+      "sparsity": 0.0,
+      "compression": 1.0
+    }
+  },
+  {
+    "accuracy": 0.3333333333333333,
+    "runtime": 6.357828776041666e-07,
+    "config": {
+      "model": "llama-3.1-70b",
+      "pattern": "cot",
+      "n_shots": 5,
+      "quantization": null,
+      "sparsity": 0.0,
+      "compression": 1.0
+    }
+  },
+  {
+    "accuracy": 0.3333333333333333,
+    "runtime": 3.178914388020833e-07,
+    "config": {
+      "model": "llama-3.1-70b",
+      "pattern": "react",
+      "n_shots": 0,
+      "quantization": null,
+      "sparsity": 0.0,
+      "compression": 1.0
+    }
+  },
+  {
+    "accuracy": 0.3333333333333333,
+    "runtime": 0.0,
+    "config": {
+      "model": "llama-3.1-70b",
+      "pattern": "react",
+      "n_shots": 3,
+      "quantization": null,
+      "sparsity": 0.0,
+      "compression": 1.0
+    }
+  },
+  {
+    "accuracy": 0.3333333333333333,
+    "runtime": 0.0,
+    "config": {
+      "model": "llama-3.1-70b",
+      "pattern": "react",
+      "n_shots": 5,
+      "quantization": null,
+      "sparsity": 0.0,
+      "compression": 1.0
+    }
+  },
+  {
+    "accuracy": 0.3333333333333333,
+    "runtime": 3.258387247721354e-06,
+    "config": {
+      "model": "llama-3.1-8b",
+      "pattern": "cot",
+      "n_shots": 3,
+      "quantization": 8,
+      "sparsity": 0.0,
+      "compression": 1.0
+    }
+  },
+  {
+    "accuracy": 0.3333333333333333,
+    "runtime": 4.76837158203125e-06,
+    "config": {
+      "model": "llama-3.1-8b",
+      "pattern": "cot",
+      "n_shots": 3,
+      "quantization": 4,
+      "sparsity": 0.0,
+      "compression": 1.0
+    }
+  },
+  {
+    "accuracy": 0.0,
+    "runtime": 2.6226043701171875e-06,
+    "config": {
+      "model": "llama-3.1-8b",
+      "pattern": "cot",
+      "n_shots": 3,
+      "quantization": null,
+      "sparsity": 0.3,
+      "compression": 1.0
+    }
+  },
+  {
+    "accuracy": 0.0,
+    "runtime": 2.304712931315104e-06,
+    "config": {
+      "model": "llama-3.1-8b",
+      "pattern": "cot",
+      "n_shots": 3,
+      "quantization": null,
+      "sparsity": 0.5,
+      "compression": 1.0
+    }
+  },
+  {
+    "accuracy": 0.3333333333333333,
+    "runtime": 1.5099843343098958e-06,
+    "config": {
+      "model": "llama-3.1-8b",
+      "pattern": "cot",
+      "n_shots": 3,
+      "quantization": null,
+      "sparsity": 0.0,
+      "compression": 0.8
+    }
+  },
+  {
+    "accuracy": 0.3333333333333333,
+    "runtime": 1.3510386149088542e-06,
+    "config": {
+      "model": "llama-3.1-8b",
+      "pattern": "cot",
+      "n_shots": 3,
+      "quantization": null,
+      "sparsity": 0.0,
+      "compression": 0.6
+    }
+  },
+  {
+    "accuracy": 0.3333333333333333,
+    "runtime": 9.616216023763021e-06,
+    "config": {
+      "model": "llama-3.1-8b",
+      "pattern": "cot",
+      "n_shots": 3,
+      "quantization": 8,
+      "sparsity": 0.3,
+      "compression": 0.8
+    }
+  },
+  {
+    "accuracy": 0.0,
+    "runtime": 5.404154459635417e-06,
+    "config": {
+      "model": "granite-3.1-8b",
+      "pattern": "cot",
+      "n_shots": 3,
+      "quantization": 8,
+      "sparsity": 0.0,
+      "compression": 1.0
+    }
+  },
+  {
+    "accuracy": 0.0,
+    "runtime": 3.417332967122396e-06,
+    "config": {
+      "model": "granite-3.1-8b",
+      "pattern": "cot",
+      "n_shots": 3,
+      "quantization": 4,
+      "sparsity": 0.0,
+      "compression": 1.0
+    }
+  },
+  {
+    "accuracy": 0.3333333333333333,
+    "runtime": 3.178914388020833e-07,
+    "config": {
+      "model": "granite-3.1-8b",
+      "pattern": "cot",
+      "n_shots": 3,
+      "quantization": null,
+      "sparsity": 0.3,
+      "compression": 1.0
+    }
+  },
+  {
+    "accuracy": 0.3333333333333333,
+    "runtime": 3.0994415283203125e-06,
+    "config": {
+      "model": "granite-3.1-8b",
+      "pattern": "cot",
+      "n_shots": 3,
+      "quantization": null,
+      "sparsity": 0.5,
+      "compression": 1.0
+    }
+  },
+  {
+    "accuracy": 0.0,
+    "runtime": 8.344650268554688e-06,
+    "config": {
+      "model": "granite-3.1-8b",
+      "pattern": "cot",
+      "n_shots": 3,
+      "quantization": null,
+      "sparsity": 0.0,
+      "compression": 0.8
+    }
+  },
+  {
+    "accuracy": 0.3333333333333333,
+    "runtime": 2.384185791015625e-06,
+    "config": {
+      "model": "granite-3.1-8b",
+      "pattern": "cot",
+      "n_shots": 3,
+      "quantization": null,
+      "sparsity": 0.0,
+      "compression": 0.6
+    }
+  },
+  {
+    "accuracy": 0.0,
+    "runtime": 1.1682510375976562e-05,
+    "config": {
+      "model": "granite-3.1-8b",
+      "pattern": "cot",
+      "n_shots": 3,
+      "quantization": 8,
+      "sparsity": 0.3,
+      "compression": 0.8
+    }
+  },
+  {
+    "accuracy": 0.3333333333333333,
+    "runtime": 1.430511474609375e-06,
+    "config": {
+      "model": "llama-3.1-70b",
+      "pattern": "cot",
+      "n_shots": 3,
+      "quantization": 8,
+      "sparsity": 0.0,
+      "compression": 1.0
+    }
+  },
+  {
+    "accuracy": 0.3333333333333333,
+    "runtime": 6.357828776041666e-07,
+    "config": {
+      "model": "llama-3.1-70b",
+      "pattern": "cot",
+      "n_shots": 3,
+      "quantization": 4,
+      "sparsity": 0.0,
+      "compression": 1.0
+    }
+  },
+  {
+    "accuracy": 0.3333333333333333,
+    "runtime": 5.563100179036458e-06,
+    "config": {
+      "model": "llama-3.1-70b",
+      "pattern": "cot",
+      "n_shots": 3,
+      "quantization": null,
+      "sparsity": 0.3,
+      "compression": 1.0
+    }
+  },
+  {
+    "accuracy": 0.3333333333333333,
+    "runtime": 5.563100179036459e-07,
+    "config": {
+      "model": "llama-3.1-70b",
+      "pattern": "cot",
+      "n_shots": 3,
+      "quantization": null,
+      "sparsity": 0.5,
+      "compression": 1.0
+    }
+  },
+  {
+    "accuracy": 0.3333333333333333,
+    "runtime": 1.0013580322265625e-05,
+    "config": {
+      "model": "llama-3.1-70b",
+      "pattern": "cot",
+      "n_shots": 3,
+      "quantization": null,
+      "sparsity": 0.0,
+      "compression": 0.8
+    }
+  },
+  {
+    "accuracy": 0.3333333333333333,
+    "runtime": 1.9073486328125e-06,
+    "config": {
+      "model": "llama-3.1-70b",
+      "pattern": "cot",
+      "n_shots": 3,
+      "quantization": null,
+      "sparsity": 0.0,
+      "compression": 0.6
+    }
+  },
+  {
+    "accuracy": 0.3333333333333333,
+    "runtime": 1.2318293253580729e-05,
+    "config": {
+      "model": "llama-3.1-70b",
+      "pattern": "cot",
+      "n_shots": 3,
+      "quantization": 8,
+      "sparsity": 0.3,
+      "compression": 0.8
+    }
+  }
+]
